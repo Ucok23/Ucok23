@@ -18,3 +18,19 @@ Here are some ideas to get you started:
 - 🌐 I do web, front-to-back, prototype-to-deploy
 - ⌨️ I type in php, javascript, python
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
+
+### Past Client's Projects
+
+#### Currency Telegram Bot
+Scrape currency data, process data, send data to telegram account, using bot.
+Skill: Python, web scraping, data structure
+
+#### BTCAlpha CLI Script
+BTCAlpha command line script using BTCAlpha API
+Skill: Python, API, command line
+
+#### Web Game Integration
+Connect web game to games provider
+Skill: PHP, Javascript, HTML, CSS, Bootstrap
+
+#### and other small projects
