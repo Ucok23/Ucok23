@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 - 📚 I'm a freelance fullstack developer
 - 🌐 I do web, front-to-back, prototype-to-deploy
+- ⌨️ I type in php, javascript, python
+- ⚡ Fun fact: I hate javascript so it has to pay my bill!
