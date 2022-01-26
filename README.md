@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 Scrape currency data, process data, send data to telegram account, using bot.<br/> Skill applied: Python, web scraping, data structure, telegram bot
 
 #### BTCAlpha CLI Script
-BTCAlpha command line script using BTCAlpha API  Skill applied: Python, REST API, command line
+BTCAlpha command line script using BTCAlpha API <br/>  Skill applied: Python, REST API, command line
 
 #### Web Game Integration
-Connect web game to games provider  Skill applied: PHP, Javascript, HTML, CSS, Bootstrap
+Connect web game to games provider <br/>  Skill applied: PHP, Javascript, HTML, CSS, Bootstrap
 
 #### and other small projects
