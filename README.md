@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Past Client's Projects
 
 #### Currency Telegram Bot
-Scrape currency data, process data, send data to telegram account, using bot.  Skill applied: Python, web scraping, data structure, telegram bot
+Scrape currency data, process data, send data to telegram account, using bot.<br/> Skill applied: Python, web scraping, data structure, telegram bot
 
 #### BTCAlpha CLI Script
 BTCAlpha command line script using BTCAlpha API  Skill applied: Python, REST API, command line
