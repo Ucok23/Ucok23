@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🌐 I do web, front-to-back, prototype-to-deploy
 - ⌨️ I type in php, javascript, python
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
+- 🌱 I’m currently learning Dart and Flutter
 
 ### Past Client's Projects
 
