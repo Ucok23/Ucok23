@@ -31,4 +31,7 @@ BTCAlpha command line script using BTCAlpha API <br/>  Skill applied: Python, RE
 #### Web Game Integration
 Connect web game to games provider <br/>  Skill applied: PHP, Javascript, HTML, CSS, Bootstrap
 
+#### Flutter Image Classification
+It's fun project
+
 #### and other small projects
