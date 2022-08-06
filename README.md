@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⌨️ I type in php, javascript, python
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
 - 🌱 Learning Android and Kotlin
+
 PS: I'm also doing machine learning and data science
 
 ### Past Client's Projects
