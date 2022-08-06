@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🌐 I do web, front-to-back, prototype-to-deploy
 - ⌨️ I type in php, javascript, python
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
-- 🌱 I’m currently learning Dart and Flutter, Kotlin and Android Studio, Typescript
+- 🌱 Learning Android and Kotlin
+PS: I'm also doing machine learning and data science
 
 ### Past Client's Projects
 
@@ -32,6 +33,12 @@ BTCAlpha command line script using BTCAlpha API <br/>  Skill applied: Python, RE
 Connect web game to games provider <br/>  Skill applied: PHP, Javascript, HTML, CSS, Bootstrap
 
 #### Flutter Image Classification
-It's fun project
+It's fun project using tflite
+
+#### Thesis Paper Implementation
+Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Sciki-learn, Tensorflow, Keras
+
+#### Object detection Opencv-python
+Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
 
 #### and other small projects
