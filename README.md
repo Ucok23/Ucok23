@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 I'm a freelance fullstack developer
-- 🌐 I do web, front-to-back, prototype-to-deploy
-- ⌨️ I type in php, javascript, python
+- 📚 I'm a freelance junior programmer with wide-range of experiences
+- ⌨️ I type in php, javascript, python, with python as my strongest weapon
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
 - 🌱 Learning Android and Kotlin
 
