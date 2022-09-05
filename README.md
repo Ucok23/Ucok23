@@ -44,4 +44,4 @@ Detecting object on a given image, video, or videosteam <br/>  Skill applied: Py
 #### and other small projects
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact"/>
