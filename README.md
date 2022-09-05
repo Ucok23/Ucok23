@@ -1,5 +1,7 @@
+<p align='center'>
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact&theme=algolia"/>
+</p>
 <!--
 **Ucok23/Ucok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,6 +44,3 @@ Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Scik
 Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
 
 #### and other small projects
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact"/>
