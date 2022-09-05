@@ -1,7 +1,3 @@
-<p align='center'>
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact&theme=algolia"/>
-</p>
 <!--
 **Ucok23/Ucok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 - 📚 I'm a freelance junior programmer with wide-range of experiences
 - ⌨️ I type in php, javascript, python, with python as my strongest weapon
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
@@ -43,4 +40,7 @@ Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Scik
 #### Object detection Opencv-python
 Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
 
-#### and other small projects
+#### Stats
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact&theme=algolia"/>
+</p>
