@@ -42,3 +42,6 @@ Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Scik
 Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
 
 #### and other small projects
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23"/>
