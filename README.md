@@ -41,6 +41,6 @@ Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Scik
 Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
 
 #### Stats
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact&theme=algolia"/>
-</p>
+</p> -->
