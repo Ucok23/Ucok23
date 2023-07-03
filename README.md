@@ -25,6 +25,10 @@ PS: I'm also doing machine learning and data science
 #### Currency Telegram Bot
 Scrape currency data, process data, send data to telegram account, using bot.<br/> Skill applied: Python, web scraping, data structure, telegram bot
 
+#### react-powered simple chat app
+Simple chat app using react, react-use-websocket, backend using django <br/>
+Skill applied: Typescript, React, React-use-websocket, Python, Django, Django-Channels
+
 #### BTCAlpha CLI Script
 BTCAlpha command line script using BTCAlpha API <br/>  Skill applied: Python, REST API, command line
 
@@ -40,7 +44,10 @@ Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Scik
 #### Object detection Opencv-python
 Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
 
-#### Stats
-<!-- <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ucok23&layout=compact&theme=algolia"/>
-</p> -->
+#### flask-powered Image Classification Website
+Using flask as interface for image classification model <br/>
+Skill applied: Python, Flask, keras, cv2
+
+#### django-powered admin website
+Using django as admin dashboard of e-business site <br/>
+Skill applied: Python, Django, Django-Allauth, Docker
