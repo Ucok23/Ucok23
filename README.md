@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- 📚 I'm a freelance junior programmer with wide-range of experiences
+- 📚 I'm a freelance programmer with wide-range of experiences
 - ⌨️ I type in php, javascript, python, with python as my strongest weapon
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
 - 🌱 Learning Android and Kotlin
