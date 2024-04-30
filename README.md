@@ -1,20 +1,9 @@
 <!--
 **Ucok23/Ucok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- 📚 I'm a freelance programmer with wide-range of experiences
-- ⌨️ I type in php, javascript, python, with python as my strongest weapon
+- 📚 I'm a full-stack programmer with wide-range of experiences
+- ⌨️ I am a polyglot that speak typescript, javascript, python and some other native language (like C)
 - ⚡ Fun fact: I hate javascript so it has to pay my bill!
 - 🌱 Learning Android and Kotlin
 
@@ -51,3 +40,9 @@ Skill applied: Python, Flask, keras, cv2
 #### django-powered admin website
 Using django as admin dashboard of e-business site <br/>
 Skill applied: Python, Django, Django-Allauth, Docker
+
+#### express rest api
+REST API for enterprise app
+
+#### react enterprise dashboard app
+React dashboard app for client gateway of an enterprise company
