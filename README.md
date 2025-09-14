@@ -28,7 +28,7 @@ A collection of the primary tools and technologies I use to bring ideas to life:
 
 Here are some of the projects I'm particularly proud of.
 
-#### 🏢 Microservices for an Enterprise SaaS Platform
+#### 🏢 Microservices for an Enterprise Business Operation
 Developed a highly scalable and resilient backend architecture for an enterprise-level application. The microservices approach improved fault isolation, enabled independent deployments, and increased overall system performance.
 -   **Tech Stack:** `NestJS`, `Node.js`, `TypeScript`, `Docker`, `Kubernetes`, `Redis`, `PostgreSQL`, `REST API`.
 
