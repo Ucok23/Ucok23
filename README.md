@@ -1,48 +1,52 @@
-<!--
-**Ucok23/Ucok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### Hi there 👋
-- 📚 I'm a full-stack programmer with wide-range of experiences
-- ⌨️ I am a polyglot that speak typescript, javascript, python and some other native language (like C)
-- ⚡ Fun fact: I hate javascript so it has to pay my bill!
-- 🌱 Learning Android and Kotlin
+### Hi there, I'm Ucok! 👋
 
-PS: I'm also doing machine learning and data science
+I'm a seasoned **Full-Stack Developer** with a passion for building robust, scalable applications from concept to deployment. My expertise lies at the intersection of modern web technologies and artificial intelligence, allowing me to develop cutting-edge, full-stack AI products.
 
-### Past Client's Projects
+-   🚀 I specialize in the **TypeScript/JavaScript** ecosystem, particularly with **React, Next.js, Node.js,** and **NestJS**.
+-   🧠 I have a strong background in **Machine Learning** and **Data Science**, enabling me to architect and build intelligent applications.
+-   💻 I'm a polyglot programmer, comfortable diving into Python for data-intensive tasks or lower-level languages like C when performance is critical.
+-   🌱 I'm currently expanding my skills in **Android Development** with **Kotlin**.
+-   ⚡ Fun fact: My love-hate relationship with JavaScript fuels my passion for taming it to build amazing things.
 
-#### Currency Telegram Bot
-Scrape currency data, process data, send data to telegram account, using bot.<br/> Skill applied: Python, web scraping, data structure, telegram bot
+---
 
-#### react-powered simple chat app
-Simple chat app using react, react-use-websocket, backend using django <br/>
-Skill applied: Typescript, React, React-use-websocket, Python, Django, Django-Channels
+### 🛠️ My Tech Stack
 
-#### BTCAlpha CLI Script
-BTCAlpha command line script using BTCAlpha API <br/>  Skill applied: Python, REST API, command line
+A collection of the primary tools and technologies I use to bring ideas to life:
 
-#### Web Game Integration
-Connect web game to games provider <br/>  Skill applied: PHP, Javascript, HTML, CSS, Bootstrap
+| Category          | Technologies                                                                                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Frontend** | `React` `Next.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `TailwindCSS`                                                                                             |
+| **Backend** | `Node.js` `NestJS` `Express.js` `Python` `Django` `Flask` `Firebase`                                                                                                                |
+| **AI & MLOps** | `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `Gemini API`                                                                                                  |
+| **Databases** | `PostgreSQL` `MongoDB` `Redis` `MySQL`                                                                                                                                     |
+| **DevOps & Tools**| `Docker` `Git` `GitHub` `CI/CD` `REST APIs` `GraphQL` `WebSockets`                                                                                                          |
 
-#### Flutter Image Classification
-It's fun project using tflite
+---
 
-#### Thesis Paper Implementation
-Implement code for some thesis <br/>  Skill applied: Python, Pandas, Numpy, Sciki-learn, Tensorflow, Keras
+### ✨ Featured Projects
 
-#### Object detection Opencv-python
-Detecting object on a given image, video, or videosteam <br/>  Skill applied: Python, Numpy, Opencv-python
+Here are some of the projects I'm particularly proud of.
 
-#### flask-powered Image Classification Website
-Using flask as interface for image classification model <br/>
-Skill applied: Python, Flask, keras, cv2
+#### 🏢 Microservices for an Enterprise SaaS Platform
+Developed a highly scalable and resilient backend architecture for an enterprise-level application. The microservices approach improved fault isolation, enabled independent deployments, and increased overall system performance.
+-   **Tech Stack:** `NestJS`, `Node.js`, `TypeScript`, `Docker`, `Kubernetes`, `Redis`, `PostgreSQL`, `REST API`.
 
-#### django-powered admin website
-Using django as admin dashboard of e-business site <br/>
-Skill applied: Python, Django, Django-Allauth, Docker
+#### 📸 Interactive Photobooth Web Application
+Built a real-time, interactive photobooth application for events. The app captures images, applies custom filters and overlays, and provides instant sharing capabilities for users.
+-   **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Node.js`, `Canvas API`.
 
-#### express rest api
-REST API for enterprise app
+#### 🤖 AI-Powered Conversational Application
+Engineered a full-stack AI application featuring a natural language interface. Organize Your AI Conversations.
+Finally. [MauKode AI](https://ai.maukode.com/)
+-   **Tech Stack:** `React`, `Next.js`, `Node.js`, `Firebase `, `Vertex AI`.
 
-#### react enterprise dashboard app
-React dashboard app for client gateway of an enterprise company
+---
+
+### 📫 Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team.
+
+-   **LinkedIn:** [Ucok Isa Lubis](https://www.linkedin.com/in/ucok-isa-lubis/)
+-   **X:** [X](https://x.com/ucok_isa)
+
