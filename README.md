@@ -30,11 +30,11 @@ Here are some of the projects I'm particularly proud of.
 
 #### 🏢 Microservices for an Enterprise Business Operation
 Developed a highly scalable and resilient backend architecture for an enterprise-level application. The microservices approach improved fault isolation, enabled independent deployments, and increased overall system performance.
--   **Tech Stack:** `NestJS`, `Node.js`, `TypeScript`, `Docker`, `Kubernetes`, `Redis`, `PostgreSQL`, `REST API`.
+-   **Tech Stack:** `React`, `ExpressJS`, `Node.js`, `TypeScript`, `Docker`, `Kubernetes`, `Redis`, `PostgreSQL`, `REST API`.
 
 #### 📸 Interactive Photobooth Web Application
 Built a real-time, interactive photobooth application for events. The app captures images, applies custom filters and overlays, and provides instant sharing capabilities for users.
--   **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Node.js`, `Canvas API`.
+-   **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Node.js`, `Canvas API`, `Firebase`.
 
 #### 🤖 AI-Powered Conversational Application
 Engineered a full-stack AI application featuring a natural language interface. Organize Your AI Conversations.
