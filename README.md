@@ -2,11 +2,12 @@
 
 I'm a seasoned **Full-Stack Developer** with a passion for building robust, scalable applications from concept to deployment. My expertise lies at the intersection of modern web technologies and artificial intelligence, allowing me to develop cutting-edge, full-stack AI products.
 
--   🚀 I specialize in the **TypeScript/JavaScript** ecosystem, particularly with **React, Next.js, Node.js,** and **NestJS**.
+-   🚀 I specialize in the **TypeScript/JavaScript** ecosystem, particularly with **React, Next.js, Electron.js,** and **Express.js**.
 -   🧠 I have a strong background in **Machine Learning** and **Data Science**, enabling me to architect and build intelligent applications.
 -   💻 I'm a polyglot programmer, comfortable diving into Python for data-intensive tasks or lower-level languages like C when performance is critical.
--   🌱 I'm currently expanding my skills in **Android Development** with **Kotlin**.
 -   ⚡ Fun fact: My love-hate relationship with JavaScript fuels my passion for taming it to build amazing things.
+
+You know, using typescript/javascript, I built apps for these platform: Web, Desktop, and Mobile. Not just as standalone apps, but as integrated systems.
 
 ---
 
@@ -40,6 +41,10 @@ Built a real-time, interactive photobooth application for events. The app captur
 Engineered a full-stack AI application featuring a natural language interface. Organize Your AI Conversations.
 Finally. [MauKode AI](https://ai.maukode.com/)
 -   **Tech Stack:** `React`, `Next.js`, `Node.js`, `Firebase `, `Vertex AI`.
+
+#### 🤖 ASN-AI For Government Agency
+Custom RAG implementation that serves well for nearly 7000 government employees.
+- **Tech Stack:** `Express.js`, `React Native`, `TypeScript`, `Expo`, `AI SDK`, `Langchain Textsplitter`, `Huggingface Sentence Transformers`, `Postgresql + Pgvector`.
 
 ---
 
