@@ -31,7 +31,7 @@ Here are some of the projects I'm particularly proud of.
 
 #### 🏢 Microservices for an Enterprise Business Operation
 Developed a highly scalable and resilient backend architecture for an enterprise-level application. The microservices approach improved fault isolation, enabled independent deployments, and increased overall system performance.
--   **Tech Stack:** `React`, `ExpressJS`, `Node.js`, `TypeScript`, `Docker`, `Kubernetes`, `Redis`, `PostgreSQL`, `REST API`.
+-   **Tech Stack:** `React`, `ExpressJS`, `Node.js`, `TypeScript`, `Docker`, `Redis`, `PostgreSQL`, `REST API`.
 
 #### 📸 Interactive Photobooth Web Application
 Built a real-time, interactive photobooth application for events. The app captures images, applies custom filters and overlays, and provides instant sharing capabilities for users.
