@@ -1,14 +1,16 @@
 ### Hi there, I'm Ucok! 👋
 
-I'm a seasoned **Full-Stack Developer** with a passion for building robust, scalable applications from concept to deployment. My expertise lies at the intersection of modern web technologies and artificial intelligence, allowing me to develop cutting-edge, full-stack AI products.
+I build end-to-end AI applications by bridging the gap between Python AI backends (FastAPI, LLM) and modern React frontends (Next.js, TypeScript). I help shipping complete AI products, not just code snippets.
 
--   🚀 I specialize in the **TypeScript/JavaScript** ecosystem, particularly with **React, Next.js, Electron.js,** and **Express.js**.
--   🧠 I have a strong background in **Machine Learning** and **Data Science**, enabling me to architect and build intelligent applications.
--   💻 I'm a polyglot programmer, comfortable diving into Python for data-intensive tasks or lower-level languages like C when performance is critical.
--   ⚡ Fun fact: My love-hate relationship with JavaScript fuels my passion for taming it to build amazing things.
+As a full-stack developer with expertise in Node.js and Python and experiences building AI-related products, I excel at solving complex technical challenges and delivering high-quality results. My focus is on understanding your business needs and crafting solutions that meet your specific goals. I'm comfortable working independently or as part of a team, and I'm always committed to exceeding expectations. My skillset includes:
 
-You know, using typescript/javascript, I built apps for these platform: Web, Desktop, and Mobile. Not just as standalone apps, but as integrated systems.
+- Node.js and Python development
+- Front-end and back-end architecture
+- API development and integration
+- Cloud deployment and maintenance
+- Data science and machine learning
 
+Let's discuss how I can help you achieve your project vision.
 ---
 
 ### 🛠️ My Tech Stack
